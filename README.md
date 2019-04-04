@@ -2,7 +2,7 @@
 
 This example demonstrates to show events in custom agenda view using list view.
 
-See [How to show events in custom agenda view using list view](https://www.syncfusion.com/kb/10325/how-to-show-events-in-custom-agenda-view-using-list-view-in-xamarin-forms-calendar) for more details.
+See [How to show events in custom agenda view using list view in Xamarin.Forms Calendar](https://www.syncfusion.com/kb/10325/how-to-show-events-in-custom-agenda-view-using-list-view-in-xamarin-forms-calendar) for more details.
 
 ## <a name="requirements-to-run-the-demo"></a>Requirements to run the demo ##
 
