@@ -1,4 +1,4 @@
-# How to show events in custom agenda view using list view?
+# How to show events in custom agenda view using list view in Xamarin.Forms Calendar?
 
 This example demonstrates to show events in custom agenda view using list view.
 
@@ -12,4 +12,5 @@ See [How to show events in custom agenda view using list view](https://www.syncf
 ## <a name="troubleshooting"></a>Troubleshooting ##
 ### Path too long exception
 If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
+
 
